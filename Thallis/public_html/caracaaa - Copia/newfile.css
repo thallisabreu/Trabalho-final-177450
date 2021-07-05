@@ -1,0 +1,21 @@
+h1 {text-align: center;
+    background-color: black;
+}
+
+.tudonocentro {
+  text-align: center;
+  color: tomato;
+  background-color: white;
+
+
+
+}
+body{
+  margin: auto;
+  width: 50%;
+  background-image: url(grama.jpg);
+}
+
+p {color: white;
+  font-style: oblique;
+  }
